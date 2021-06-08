@@ -1,6 +1,5 @@
 #make a list of all numbers inputed 
 #find the largest number in the list
-
 list = []
 
 while True:
